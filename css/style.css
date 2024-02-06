@@ -179,6 +179,10 @@ h6,
         min-height: 500px;
     }
 
+    #logoImg{
+        width: 80px;
+    }
+
     .header-carousel .owl-carousel-item img {
         position: absolute;
         width: 100%;
