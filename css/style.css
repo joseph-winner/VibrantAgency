@@ -191,6 +191,9 @@ h6,
     #logoImg{
         width: 50px;
     }
+    .hidesmall{
+        display: none;
+    }
 
     .header-carousel .owl-carousel-item img {
         position: absolute;
